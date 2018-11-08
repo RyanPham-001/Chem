@@ -280,3 +280,6 @@ def light_from_energy():
 def energy_level():
     level = input("What energy level are you given? ")
     return(float(Rydberg_constant)*-1/(float(level)**2))
+
+def line_break():
+    print("")
