@@ -126,10 +126,10 @@ while (Choice != "Quit"):
     elif (Choice == "2"):
         Compound_Problems(elementList)
         line_make()
-        print("2.)Simple Calculations\t2.)Compound Problems\nQuit to Quit\tHelp for help")
+        print("1.)Simple Calculations\t2.)Compound Problems\nQuit to Quit\tHelp for help")
         Choice = input("What would you like to do? ")
     else:
         print("Error has occured, type help if you need it.")
         line_make()
-        print("2.)Simple Calculations\t2.)Compound Problems\nQuit to Quit\tHelp for help")
+        print("1.)Simple Calculations\t2.)Compound Problems\nQuit to Quit\tHelp for help")
         Choice = input("What would you like to do? ")
