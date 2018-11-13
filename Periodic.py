@@ -10,7 +10,10 @@ speed_of_light = 3*10**8
 planck_constant = 6.626*10**(-34)
 Rydberg_constant = 2.179e-18
 
-
+def mass_percent():
+    mass = input("What is the mass of the entire solution")
+    mass1 = input("what is the mass of the component")
+    
 def line_make():
     for x in range(0, 120):
         print("*", end="")
