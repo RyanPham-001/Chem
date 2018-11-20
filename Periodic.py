@@ -9,7 +9,7 @@ class DataPer:
 speed_of_light = 3*10**8
 planck_constant = 6.626*10**(-34)
 Rydberg_constant = 2.179e-18
-
+#add more work, show the work for some problems
 
     
 def line_make():
