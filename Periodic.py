@@ -256,7 +256,7 @@ def spectrum():
 def frequency_to_wavelength(frequency):
     return (float(speed_of_light)/float(frequency))
 
-
+print("hi")
 def wavelength_to_frequency(wavelength):
     return (float(speed_of_light)/float(wavelength))
 
